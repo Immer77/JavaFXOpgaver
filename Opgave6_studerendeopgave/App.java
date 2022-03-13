@@ -1,4 +1,4 @@
-package studerendeopgave;
+package Opgave6_studerendeopgave;
 
 import javafx.application.Application;
 

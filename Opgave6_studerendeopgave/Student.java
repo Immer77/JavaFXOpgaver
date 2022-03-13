@@ -1,4 +1,4 @@
-package studerendeopgave;
+package Opgave6_studerendeopgave;
 
 /**
  * Klasse der beskriver en studerende
@@ -26,7 +26,7 @@ public class Student {
 
 	/*
 	 * Constructor, når den studerende oprettes, skal den have et navn. Ved
-	 * oprettelse er den studerende ikke aktiv
+	 * oprettelse er den studerende aktiv
 	 */
 	public Student(String name, int age, boolean active) {
 		this.name = name;
